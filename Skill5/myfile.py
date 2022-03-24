@@ -1,5 +1,6 @@
 import csv
 from operator import itemgetter
+
 fields = ['EMPID','Name','DOB','Department','Designation','Experience',  'No of leaves','Salary']
 rows = [['1',   'Mounika',  '02-05-2001',   'E-104',    'HR',       '1',    '20',   '30000'],
         ['2',   'Vishal',   '11-06-1984',  'E-105',    'Admin',    '5',    '15',   '25000']]
